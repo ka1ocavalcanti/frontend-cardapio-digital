@@ -1,4 +1,4 @@
-import { useMutation, useQueryClient } from "@tanstack/react-query";
+import { useMutation, useQueryClient } from "@tanstack/react-query"
 import axios, { AxiosPromise } from "axios"
 import { FoodData } from '../interface/FoodData';
 
